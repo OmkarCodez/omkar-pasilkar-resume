@@ -310,7 +310,7 @@
           }
           // Flash message
           const msg = document.createElement('div');
-          msg.textContent = '🐛 BUG INVASION! +10 BUGS DEPLOYED';
+          msg.textContent = '🐛 BUG INVASION : +10 BUGS CRUSHED!';
           msg.style.cssText = `
             position:fixed; top:50%; left:50%;
             transform:translate(-50%,-50%);
